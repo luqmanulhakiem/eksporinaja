@@ -1,6 +1,6 @@
-# Git Commit Guidelines - EksporKilat.ai
+# Git Commit Guidelines - EksporinAja
 
-Dokumen ini berfungsi sebagai standarisasi penulisan pesan commit (*commit message*) selama proses pengembangan proyek **EksporKilat.ai**. Standar yang digunakan mengacu pada **Conventional Commits**.
+Dokumen ini berfungsi sebagai standarisasi penulisan pesan commit (*commit message*) selama proses pengembangan proyek **EksporinAja**. Standar yang digunakan mengacu pada **Conventional Commits**.
 
 ---
 
