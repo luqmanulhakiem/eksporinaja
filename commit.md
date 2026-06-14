@@ -77,11 +77,3 @@ Jika kamu bekerja dalam **tim (maksimal 3 orang)**, sangat disarankan menggunaka
 2.  **Feature Branch (`feat/...` atau `fix/...`)**: Tempat mengerjakan fitur spesifik secara terpisah.
     *   Contoh membuat branch baru: `git checkout -b feat/integrasi-gemini`
     *   Setelah fitur selesai dan ditest, gabungkan (*merge*) kembali ke branch `main`.
-
----
-
-## 📅 Target Penyelesaian Log Commit (Menuju 22 Juli 2026)
-
-*   **Juni Pekan 3-4:** Dipenuhi oleh commit bertipe `feat(ui)` dan `chore` (Fokus ke kerangka web).
-*   **Juli Pekan 1-2:** Dipenuhi oleh commit bertipe `feat(ai)` dan `feat(api)` (Fokus ke kecerdasan buatan Gemini).
-*   **Juli Pekan 3 (Final):** Dipenuhi oleh commit bertipe `fix`, `perf`, dan `docs` (Fokus ke kerapian, kecepatan web, dan dokumentasi final).
