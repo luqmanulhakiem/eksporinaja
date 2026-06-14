@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "EksporinAja",
   description: "Jembatan Gen AI untuk UMKM Lokal Menembus Pasar Global",
+  other: {
+    "dicoding:email": "luqmanulhakiem7@gmail.com",
+  },
 };
 
 export default function RootLayout({
